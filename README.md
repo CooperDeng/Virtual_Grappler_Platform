@@ -7,3 +7,8 @@ The top-level of the design is Structural VHDL, while the instances of component
 
 The generated state diagrams, transition tables, and waveforms for functional simulation could be found in file Virtual_Grappler_Platform_Report.pdf
 
+The project were carried out and tested by the collaboration of Chengfeng Deng and Tasviq Hossain, from class ECE 2026 of the University of Waterloo.
+
+Files that are provided in this project are being used with no intention of profit, this is only an exhibit of my personal coding skill.
+
+Enjoy!
